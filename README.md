@@ -4,3 +4,5 @@ Filmes preferidos
 - Velozes e Furiosos
 - Pixel
 - entre outros
+
+- Alterações conforme aula, realizadas!
