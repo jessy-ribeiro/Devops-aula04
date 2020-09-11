@@ -5,4 +5,4 @@ Filmes preferidos
 - Pixel
 - entre outros
 
-- Alterações conforme aula, realizadas!
+- Alterações conforme aula, realizadas corretamente!
